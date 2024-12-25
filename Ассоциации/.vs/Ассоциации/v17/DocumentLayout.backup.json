@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\\u042F\\\u0423\u0447\u0435\u0431\u0430\\\u041E\u041F\u0418\\\u0410\u0441\u0441\u043E\u0446\u0438\u0430\u0446\u0438\u0438\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5E7310FD-020D-4DCA-AB97-95DA4E644352}|\u0410\u0441\u0441\u043E\u0446\u0438\u0430\u0446\u0438\u0438.vcxproj|C:\\\u042F\\\u0423\u0447\u0435\u0431\u0430\\\u041E\u041F\u0418\\\u0410\u0441\u0441\u043E\u0446\u0438\u0430\u0446\u0438\u0438\\\u0410\u0441\u0441\u043E\u0446\u0438\u0430\u0446\u0438\u0438.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5E7310FD-020D-4DCA-AB97-95DA4E644352}|\u0410\u0441\u0441\u043E\u0446\u0438\u0430\u0446\u0438\u0438.vcxproj|solutionrelative:\u0410\u0441\u0441\u043E\u0446\u0438\u0430\u0446\u0438\u0438.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\u0410\u0441\u0441\u043E\u0446\u0438\u0430\u0446\u0438\u0438.cpp",
+              "DocumentMoniker": "C:\\\u042F\\\u0423\u0447\u0435\u0431\u0430\\\u041E\u041F\u0418\\\u0410\u0441\u0441\u043E\u0446\u0438\u0430\u0446\u0438\u0438\\\u0410\u0441\u0441\u043E\u0446\u0438\u0430\u0446\u0438\u0438.cpp",
+              "RelativeDocumentMoniker": "\u0410\u0441\u0441\u043E\u0446\u0438\u0430\u0446\u0438\u0438.cpp",
+              "ToolTip": "C:\\\u042F\\\u0423\u0447\u0435\u0431\u0430\\\u041E\u041F\u0418\\\u0410\u0441\u0441\u043E\u0446\u0438\u0430\u0446\u0438\u0438\\\u0410\u0441\u0441\u043E\u0446\u0438\u0430\u0446\u0438\u0438.cpp*",
+              "RelativeToolTip": "\u0410\u0441\u0441\u043E\u0446\u0438\u0430\u0446\u0438\u0438.cpp*",
+              "ViewState": "AgIAAM8BAAAAAAAAAAAQwPIBAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-25T09:02:54.233Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
